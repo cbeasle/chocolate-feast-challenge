@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="chocolate-feast-challenge:jar">
+    <output-path>$PROJECT_DIR$/chocolate_feast_challenge_jar</output-path>
+    <root id="archive" name="chocolate-feast-challenge.jar">
+      <element id="module-output" name="chocolate-feast-challenge" />
+    </root>
+  </artifact>
+</component>
