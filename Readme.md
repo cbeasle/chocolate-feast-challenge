@@ -50,3 +50,17 @@ chocolate. Again, he can use his 1 unused wrapper and 1 wrapper of new chocolate
 Total is 5 sugar free. Since he got 2 bonus sugar_free chocolates, he also gets 2 bonus dark chocolates.
 And since he got 2 dark chocolates, he can trade both of those in for an extra dark.
 4. He buys 3 white and trades in 2 white wrappers for 1 white and 1 sugar free. Now he can use the extra white wrapper to get another white and another sugar free. Those 2 sugar free wrappers get another sugar free and a dark.
+
+Run Instructions
+------------
+
+#### Configurations
+ - Path to Properties file: _resources/config.properties_
+ - Properties
+     - **inputFilePath**: path to input file relative to project root
+     - **inputFileHeaderCount**: number header lines in input file
+     - **outputFilePath**: path to output file relative to project root
+
+#### Execution
+- exectute from project root
+- command: _java -jar chocolate_feast_challenge_jar/chocolate-feast-challenge.jar_
